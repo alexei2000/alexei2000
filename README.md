@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Alexei Hernández 👋
+
+```javascript
+const alexei2000 = {
+  firstName: "Alexei",
+  lastName: "Hernández",
+  speciality: "Frontend developer",
+  programmingLanguages: [
+    c,
+    c++,
+    javascript,
+    java,
+    python,
+  ],
+}
+
+```
+
 
 <!--
 **alexei2000/alexei2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
