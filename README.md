@@ -14,6 +14,8 @@ const alexei2000 = {
   ],
 }
 
+print.github(alexei2000)
+
 ```
 
 
