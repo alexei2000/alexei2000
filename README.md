@@ -4,7 +4,7 @@
 const alexei2000 = {
   firstName: "Alexei",
   lastName: "Hernández",
-  speciality: "Frontend developer",
+  speciality: "Full stack developer",
   programmingLanguages: [
     c,
     c++,
